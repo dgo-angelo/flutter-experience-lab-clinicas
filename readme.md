@@ -145,8 +145,8 @@ Foi desenvolvido para ser inciado via navegador, a as informações das senhas s
 
 #### :wrench: Variáveis de Ambiente
 
-- :white_check_mark: Criar a pasta ./config na raiz de cada projeto**
-- :white_check_mark:Criar o arquivo env.json e preenche-lo com o conteúdo abaixo:
+- :white_check_mark: Criar a pasta ./config na raiz de cada projeto
+- :white_check_mark: Criar o arquivo env.json e preenche-lo com o conteúdo abaixo:
 
   ```
   {
@@ -181,8 +181,9 @@ Após a configuração do launcher, basta utiliza-lo para inciar a aplicação.
 ## :dart: Backlog
 
 :black_square_button: Persistência do token 
-:black_square_button: Tratamento da expiração do token
-:black_square_button: Geração dinâmica da senha de atendimento
 
+:black_square_button: Tratamento da expiração do token
+
+:black_square_button: Geração dinâmica da senha de atendimento
 
 <hr/>
